@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "86371327107",
+    "firebase_url": "https://fir-app-c0eba-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-c0eba",
+    "storage_bucket": "fir-app-c0eba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86371327107:android:15a082c9fcf74e43230fb6",
+        "android_client_info": {
+          "package_name": "com.hotelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86371327107-dodl3f4cnb29klcgnm7do092r36k37co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PwG7pt1lRXtrJKXd48jExX8ZlE5ot-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86371327107-dodl3f4cnb29klcgnm7do092r36k37co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86371327107:android:a4cd700f8b6c8182230fb6",
+        "android_client_info": {
+          "package_name": "com.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86371327107-dodl3f4cnb29klcgnm7do092r36k37co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PwG7pt1lRXtrJKXd48jExX8ZlE5ot-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86371327107-dodl3f4cnb29klcgnm7do092r36k37co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
